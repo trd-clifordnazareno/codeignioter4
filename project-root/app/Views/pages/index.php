@@ -1,0 +1,1 @@
+<?php return view('page1'); ?>
